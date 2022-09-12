@@ -1,9 +1,6 @@
 Olá, eu sou Denis Lima 👋
 
-Here are some ideas to get you started:
-
 📚 Estudando Html,Css,JavaScript e pretendo focar em React
-
 
 <div align="center">
   <a href="https://github.com/DenisLima96">
