@@ -1,6 +1,6 @@
 Olá, eu sou Denis Lima 👋
 
-📚 Estudando Html,Css,JavaScript e pretendo focar em React
+📚 Sou estudante de Desenvolvimento Web front end na origamid
 
 <div align="center">
   <a href="https://github.com/DenisLima96">
