@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/deninho7027" target="blank"><img src="https://img.shields.io/twitter/follow/deninho7027?logo=twitter&style=for-the-badge" alt="deninho7027" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **React e após concluir o curso, pretendo aprender wordPress, Typescript e bootstrap**
+- 🌱 Atualmente estou aprendendo **React e após concluir o curso, pretendo aprender Typescript e bootstrap**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/DenisLima96](https://github.com/DenisLima96)
 
