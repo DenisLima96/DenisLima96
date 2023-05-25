@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Typescript e após concluir o curso, pretendo aprender bootstrap**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/DenisLima96](https://github.com/DenisLima96?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/DenisLima96?tab=repositories)
 
 - 📫 Como chegar até mim **denisliimati@gmail.com**
 
