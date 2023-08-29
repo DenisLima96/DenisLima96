@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/deninho7027" target="blank"><img src="https://img.shields.io/twitter/follow/deninho7027?logo=twitter&style=for-the-badge" alt="deninho7027" /></a> </p>
 
-- 🌱 Iniciei na área de desenvolvimento e me capacitei na área de Front-End, focando em desenvolvimento web com Javascript, React, Html e Css. Em busca de novas experiências para evoluir como desenvolvedor.
-
-Agora em 2023 iniciei a faculdade de Analise e Desenvolvimento de sistema, onde pretendo seguir minha carreira, quero absorver total conhecimento cm back-end.
+- 🌱 Iniciei na área de desenvolvimento e me capacitei na área de Front-End, focando em desenvolvimento web com Javascript, React, Html e Css. Em busca de novas experiências para evoluir como desenvolvedor, agora em 2023 iniciei a faculdade de Analise e Desenvolvimento de sistema, onde pretendo seguir minha carreira, quero absorver total conhecimento com back-end.
+   
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/DenisLima96?tab=repositories)
 
