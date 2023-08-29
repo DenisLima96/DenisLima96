@@ -1,11 +1,13 @@
 <h1 align="center">Olá 👋, eu sou Denis Lima</h1>
-<h3 align="center">Um desenvolvedor front-end apaixonado do Brasil</h3>
+<h3 align="center">Um desenvolvedor  apaixonado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denislima96&label=Profile%20views&color=0e75b6&style=flat" alt="denislima96" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deninho7027" target="blank"><img src="https://img.shields.io/twitter/follow/deninho7027?logo=twitter&style=for-the-badge" alt="deninho7027" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **Typescript e após concluir o curso, pretendo aprender bootstrap**
+- 🌱 Iniciei na área de desenvolvimento e me capacitei na área de Front-End, focando em desenvolvimento web com Javascript, React, Html e Css. Em busca de novas experiências para evoluir como desenvolvedor.
+
+Agora em 2023 iniciei a faculdade de Analise e Desenvolvimento de sistema, onde pretendo seguir minha carreira, quero absorver total conhecimento cm back-end.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/DenisLima96?tab=repositories)
 
