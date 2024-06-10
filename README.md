@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dênis Lima</h1>
-<h3 align="center">Um desenvolvedor  apaixonado</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denislima96&label=Profile%20views&color=0e75b6&style=flat" alt="denislima96" /> </p>
 
