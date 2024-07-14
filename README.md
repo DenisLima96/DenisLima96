@@ -7,13 +7,8 @@
 
  Olá! Sou Dênis Lima um entusiasta de desenvolvimento de software atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas. Desde o início da minha jornada acadêmica, descobri uma paixão pelo desenvolvimento Back-end que só cresce a cada dia.
 
-🖥️ Meu interesse inicial pelo Front-end me proporcionou uma base sólida em HTML, CSS e JavaScript, mas foi ao explorar o mundo do Back-end que encontrei minha verdadeira vocação. Agora, estou focado em aprimorar minhas habilidades em linguagens como Python, assim como em frameworks como Django.
+🖥️ Estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período, com paixão pelo desenvolvimento Back-end. Tenho experiência em PostgreSQL e na implementação de soluções na nuvem AWS. Além disso, possuo habilidades em JavaScript com React. Busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos em Python, Django e desenvolvimento de software, visando uma carreira full-time.
 
-🔍 Atualmente, estou estagiando na Secretaria de Educação de Sergipe, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em tecnologia, embora meu objetivo final seja ingressar em uma carreira de desenvolvimento full-time.
-
-💼 No meu perfil, você encontrará uma variedade de projetos nos quais tenho trabalhado, desde pequenos projetos pessoais até contribuições para projetos de código aberto. Estou sempre buscando desafios interessantes que me permitam aprender e crescer como desenvolvedor.
-
-🚀 Estou animado para continuar minha jornada no mundo do desenvolvimento de software e estou aberto a oportunidades que me permitam colaborar em projetos empolgantes e inovadores. Se você compartilha meu interesse em construir soluções tecnológicas que façam a diferença, não hesite em entrar em contato!
 
 
 
