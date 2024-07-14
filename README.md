@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/deninho7027" target="blank"><img src="https://img.shields.io/twitter/follow/deninho7027?logo=twitter&style=for-the-badge" alt="deninho7027" /></a> </p>
 
- Olá! Sou Dênis Lima um entusiasta de desenvolvimento de software atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas. Desde o início da minha jornada acadêmica, descobri uma paixão pelo desenvolvimento Back-end que só cresce a cada dia.
+ 
 
 🖥️ Estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período, com paixão pelo desenvolvimento Back-end. Tenho experiência em PostgreSQL e na implementação de soluções na nuvem AWS. Além disso, possuo habilidades em JavaScript com React. Busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos em Python, Django e desenvolvimento de software, visando uma carreira full-time.
 
