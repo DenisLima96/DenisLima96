@@ -7,7 +7,7 @@
 
  
 
-🖥️ Estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período, com paixão pelo desenvolvimento Back-end. Tenho experiência em PostgreSQL e na implementação de soluções na nuvem AWS. Além disso, possuo habilidades em JavaScript com React. Busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos em Python, Django e desenvolvimento de software, visando uma carreira full-time.
+🖥️Estudante de Análise e Desenvolvimento de Sistemas apaixonado por Back-end. Possuo experiência em desenvolvimento de aplicações web utilizando Python, Django e React. Sou familiarizado com bancos de dados PostgreSQL e com a nuvem AWS. Busco oportunidades para aplicar meus conhecimentos e aprender novas tecnologias.
 
 
 
