@@ -7,8 +7,7 @@
 
  
 
-🖥️Estudante de Análise e Desenvolvimento de Sistemas apaixonado por Back-end. Possuo experiência em desenvolvimento de aplicações web utilizando Python, Django, JavaScript e React. Sou familiarizado com bancos de dados PostgreSQL e com a nuvem AWS. Busco oportunidades para aplicar meus conhecimentos e aprender novas tecnologias.
-
+🖥️Estudante de Análise e Desenvolvimento de Sistemas apaixonado por Back-end. Possuo experiência em desenvolvimento de aplicações web utilizando Python, Django, JavaScript e React. Sou familiarizado com bancos de dados PostgreSQL e com a nuvem AWS. 
 
 
 
