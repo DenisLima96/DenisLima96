@@ -7,7 +7,9 @@
 
  
 
-🖥️Estudante de Análise e Desenvolvimento de Sistemas. Possuo experiência em desenvolvimento de aplicações web utilizando Python, Django, JavaScript e React. Sou familiarizado com bancos de dados PostgreSQL e com a nuvem AWS. 
+🖥️EAtualmente, sou estagiário em desenvolvimento de software, onde tenho a oportunidade de trabalhar com tecnologias modernas, como Flutter e React, além de JavaScript, Node.js e Docker. Minha experiência inclui o desenvolvimento de aplicativos móveis e sites, o que me permite aplicar conceitos de design e usabilidade em projetos práticos.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, onde estou aprimorando minhas habilidades técnicas e conhecimentos teóricos. Tenho paixão por tecnologia e inovação, e estou sempre em busca de aprender e crescer no campo do desenvolvimento.
 
 
 
