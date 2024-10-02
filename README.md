@@ -1,74 +1,43 @@
-<h1 align="center">Hi , I'm Dênis Lima</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=student+and+technology+enthusiast;FullStack" alt="Typing SVG" /></a></h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denislima96&label=Profile%20views&color=0e75b6&style=flat" alt="denislima96" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/deninho7027" target="blank"><img src="https://img.shields.io/twitter/follow/deninho7027?logo=twitter&style=for-the-badge" alt="deninho7027" /></a> </p>
+<p align="left">My name is Denis Lima  and I'm a from Brazil</p>
 
- 
+###
 
-🖥️EAtualmente, sou estagiário em desenvolvimento de software, onde tenho a oportunidade de trabalhar com tecnologias modernas, como Flutter e React, além de JavaScript, Node.js e Docker. Minha experiência inclui o desenvolvimento de aplicativos móveis e sites, o que me permite aplicar conceitos de design e usabilidade em projetos práticos.
+<h2 align="left">I am currently an intern in software development, where I have the opportunity to work with modern technologies, such as Flutter and React, as well as JavaScript, Node.js, Docker and Firebase.<br> My experience includes developing mobile applications and websites, which allows me to apply design and usability concepts to practical projects.<br><br>I am a Systems Analysis and Development student, where I am improving my technical skills and theoretical knowledge. I have a passion for technology and innovation, and I am always looking to learn and grow in the development field.</h2>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, onde estou aprimorando minhas habilidades técnicas e conhecimentos teóricos. Tenho paixão por tecnologia e inovação, e estou sempre em busca de aprender e crescer no campo do desenvolvimento.
+###
 
+<p align="left">✨ Creating bugs since 2022</p>
 
+###
 
+<h2 align="left">I code with</h2>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em (https://github.com/DenisLima96?tab=repositories)
+###
 
-- 📫 Como chegar até mim **denisliimati@gmail.com**
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deninho7027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deninho7027" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/denis-lima-9ba24722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-lima-9ba24722a" height="30" width="40" /></a>
-<a href="https://instagram.com/denisliima_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denisliima_" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisLima96&size_weight=0.5&count_weight=0.5)
-- **Languages**:
- 
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
- 
-<br>   
-    
-- **Front-End Development**:
-<div style="display: inline_block"><br>
-  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
-  
 
-- **Back-End Development**:
-
-  ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-<br>
-
-- **Cloud Hosting**:
-
-    ![Ec2](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
-- **Extras**:
-  
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-</p>
+###
