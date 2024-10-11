@@ -6,7 +6,9 @@
 
 ###
 
-<h2 align="left">I am currently an intern in software development, where I have the opportunity to work with modern technologies, such as Flutter and React, as well as JavaScript, Node.js, Docker and Firebase.<br> My experience includes developing mobile applications and websites, which allows me to apply design and usability concepts to practical projects.<br><br>I am a Systems Analysis and Development student, where I am improving my technical skills and theoretical knowledge. I have a passion for technology and innovation, and I am always looking to learn and grow in the development field.</h2>
+<h2 align="left">I am currently a software developer, where I have the opportunity to work with modern technologies such as Flutter and React, as well as JavaScript, Node.js, Docker, and Firebase. My experience includes developing mobile apps and websites, which allows me to apply design and usability concepts in practical projects.
+
+I am a Systems Analysis and Development student, where I am enhancing my technical skills and theoretical knowledge. I have a passion for technology and innovation, and I am always seeking to learn and grow in the development field</h2>
 
 ###
 
